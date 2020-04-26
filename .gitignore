@@ -1,0 +1,11 @@
+# byte-compiled
+__pycache__/
+
+# environments
+venv/
+
+# ide
+.vscode/
+
+# secret
+secret.py
